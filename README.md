@@ -1,6 +1,8 @@
 # miniCursoGit
-## aaaaaa
+## COMANDOS
 
-- aaaa
-- aaaaaa
-- aaaaaaa
+- git clone;
+- git status;
+- git add;
+- git commit -m "este commit...";
+- git log;
