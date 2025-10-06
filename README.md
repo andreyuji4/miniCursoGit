@@ -6,4 +6,4 @@
 - git add;
 - git commit -m "este commit...";
 - git log;
-- git push origin main
+- git push origin main;
