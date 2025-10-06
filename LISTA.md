@@ -1,4 +1,3 @@
-# miniCursoGit
 ## COMANDOS
 
 - git clone; COPIA O PROJETO DO GITHUB NA MÁQUINA
